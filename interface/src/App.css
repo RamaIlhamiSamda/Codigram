@@ -1,0 +1,110 @@
+:root{
+    font-size:25px;
+    --theme-primary :#2E4249;
+    --theme-red:#e99185;
+}
+
+.login{
+    margin-left:-10px;
+    width:100%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.login-all{
+    width:100%;
+    height:80px;
+    background-color: aqua;
+}
+.button{
+    margin-left:20px
+}
+.input-2{
+    margin-left:20px
+}
+.img-login{
+    margin-top:80px;
+    margin-left:100px;
+    width:50%
+}
+.codigram{
+    margin-right:800px;
+    display:flex;
+    color:white
+}
+.addUser{
+    margin-left:-200px;
+    margin-top:20px;
+    width:100%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: right;
+}
+.form-login{
+    width:500px;
+}
+.form-control{
+    margin-top:20px
+}
+.button-login{
+    margin-top:50px;
+    margin-left:200px
+}
+.daftar{
+    margin-bottom:50px;
+    margin-left:200px
+}
+
+table, tr,td{
+    width:1000px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-posting{
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: left;
+}
+.posting1{
+    display:flex;
+    align-items: center;
+    justify-content: left;
+    font-size:50px
+}
+.posting-2{
+    display:flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+.posting{
+    margin-top:100px;
+    
+}   
+.tambah-posting{
+    margin-top:70px;
+    margin-left:600px
+}
+.user1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+}
+.user-2{
+    display:flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+.img-user{
+    width:50%;
+    display:flex;
+    align-items: center;
+    justify-content: left;
+}
